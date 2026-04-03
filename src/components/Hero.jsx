@@ -98,7 +98,7 @@ function RoleCycler({ roles }) {
   }, [roles.length]);
 
   return (
-    <div className="h-20 md:h-16 lg:h-12 overflow-hidden">
+    <div className="min-h-[2.5rem] overflow-hidden">
       <motion.div
         key={index}
         initial={{ y: 40, opacity: 0 }}

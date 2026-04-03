@@ -282,6 +282,6 @@ export const achievements = [
 
 export const socialLinks = {
   github: "https://github.com/dvp0007",
-  linkedin: "https://www.linkedin.com/in/dharmik-patel-00/",
+  linkedin: "https://www.linkedin.com/in/dharmik-patel1097",
   email: "mailto:dharmik.patel101097@gmail.com",
 };
